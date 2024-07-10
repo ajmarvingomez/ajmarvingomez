@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build a business
 - 💞️ I’m looking to collaborate on Next JS projects
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have befriended my neighborhood strays and birds.
 
 ## Some Sites I've built/worked on
 
