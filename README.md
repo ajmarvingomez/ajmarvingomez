@@ -24,6 +24,7 @@
 - [SymphonyAI](https://www.symphonyai.com/)
 - [UNC Adams School of Dentistry](https://dentistry.unc.edu/)
 - [UNC School of Pharmacy](https://pharmacy.unc.edu/)
+- [UNC School of History](https://history.unc.edu/)
 - [Be A Maker](https://beam.unc.edu/)
 - [On The Stage](https://onthestage.com/)
 <!---
