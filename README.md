@@ -27,6 +27,7 @@
 - [UNC School of History](https://history.unc.edu/)
 - [Be A Maker](https://beam.unc.edu/)
 - [On The Stage](https://onthestage.com/)
+- [UNC Strategic Partners](https://partner.unc.edu/)
 <!---
 ajmarvingomez/ajmarvingomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
