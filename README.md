@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmarvingomez
 - 👀 I’m interested in Web Development and Organizing.
-- 🌱 I’m currently learning how to build a business
+- 🌱 I’m currently learning how to build a business, AI agentic frameworks, and community building.
 - 💞️ I’m looking to collaborate on Next JS projects
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I have befriended my neighborhood strays and birds.
